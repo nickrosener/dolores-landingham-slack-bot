@@ -9,8 +9,10 @@ business_time:
     - May 4, 2016
     - May 5, 2016
   work_week:
+    - sun
     - mon
     - tue
     - wed
     - thu
     - fri
+    - sat
